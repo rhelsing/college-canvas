@@ -1,0 +1,2 @@
+#About
+This was a project I did in 2012. The goal was to create an online marketplace for students to sell handmade items. The site functioned correctly and multiple transactions were successfully completed. Unfortunately, the business was deemed unsustainable by it's founders and the site has been suspended. 
